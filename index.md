@@ -1,5 +1,3 @@
-## James B. Wendt
-
 James is a Senior Software Engineer in the Strategic Technologies group at Google Research, working on large-scale machine-learned information extraction. He earned his Ph.D. at UCLA under the guidance of [Miodrag Potkonjak](http://www.cs.ucla.edu/~miodrag). You can find more information about James and his work below.
 
 * [LinkedIn](https://www.linkedin.com/in/jameswendt)
