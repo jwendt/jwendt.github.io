@@ -7,4 +7,7 @@ James is a Senior Software Engineer in the Strategic Technologies group at Googl
 * [Research at Google](https://research.google.com/pubs/JamesWendt.html)
 * [DBLP](http://dblp.uni-trier.de/pers/hd/w/Wendt:James_Bradley)
 
-Testing
+# Publications @ Google
+
+* F. Kocayusufoglu, Y. Sheng, N. Vo, J. B. Wendt, Q. Zhao, S. Tata, and M. Najork, "RiSER: Learning Better Representations for Richly Structured Emails," to appear in Proceedings of the World Wide Web Conference (WWW), 2019.
+
