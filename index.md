@@ -9,5 +9,5 @@ James is a Senior Software Engineer in the Strategic Technologies group at Googl
 
 # Publications @ Google
 
-* F. Kocayusufoglu, Y. Sheng, N. Vo, **J. B. Wendt**, Q. Zhao, S. Tata, and M. Najork, "RiSER: Learning Better Representations for Richly Structured Emails," _Proceedings of the World Wide Web Conference (WWW)_, pp. 886-895, 2019.
+* [[pdf](publications/Kocayusufoglu_WWW_2019.pdf)] [[doi](https://doi.org/10.1145/3308558.3313720)] F. Kocayusufoglu, Y. Sheng, N. Vo, **J. B. Wendt**, Q. Zhao, S. Tata, and M. Najork, "RiSER: Learning Better Representations for Richly Structured Emails," _Proceedings of the World Wide Web Conference (WWW)_, pp. 886-895, 2019.
 
