@@ -46,7 +46,7 @@ Topics span hardware security and low power system design.
 
 * [[pdf](publications/Wendt_DAC_2014.pdf)] [[doi](http://dx.doi.org/10.1145/2593069.2593228)] **J. B. Wendt**, F. Koushanfar, and M. Potkonjak, "Techniques for Foundry Identification," _ACM/IEEE Design Automation Conference (DAC)_, no. 208, pp. 1-6, 2014.
 
-* [[pdf](publications/Wei_DAC_2014.pdf)] [[doi](http://dx.doi.org/10.1145/2593069.2593204)] S. Wei, **J. B. Wendt**, A. Nahapetian, and M. Potkonjak, "Reverse Engineering and Prevention Techniques for Physical Unclonable Functions Using Side Channels," _ACM/IEEE Design Automation Conference (DAC)_, no. 90, pp. 1-6, 2014. Nominated for Best Paper Award.
+* [[pdf](publications/Wei_DAC_2014.pdf)] [[doi](http://dx.doi.org/10.1145/2593069.2593204)] S. Wei, **J. B. Wendt**, A. Nahapetian, and M. Potkonjak, "Reverse Engineering and Prevention Techniques for Physical Unclonable Functions Using Side Channels," _ACM/IEEE Design Automation Conference (DAC)_, no. 90, pp. 1-6, 2014. <span sytle="color:red">Nominated for Best Paper Award.</span>
 
 * [[pdf](publications/Rostami_DATE_2014.pdf)] [[doi](http://dx.doi.org/10.7873/DATE.2014.365)] M. Rostami, **J. B. Wendt**, M. Potkonjak, and F. Koushanfar, "Quo Vadis, PUF? Trends and Challenges of Emerging Physical-Disorder based Security," Design, Automation & Test in Europe (DATE), no. 352, pp. 1-6, 2014.
 
