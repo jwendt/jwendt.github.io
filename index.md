@@ -7,6 +7,8 @@ James is a Senior Software Engineer in the Strategic Technologies group at Googl
 
 # Publications @ Google
 
+Topics span information extraction, data mining, and applied machine learning.
+
 * [[pdf](publications/Kocayusufoglu_WWW_2019.pdf)] [[doi](https://doi.org/10.1145/3308558.3313720)] F. Kocayusufoglu, Y. Sheng, N. Vo, **J. B. Wendt**, Q. Zhao, S. Tata, and M. Najork, "RiSER: Learning Better Representations for Richly Structured Emails," _Proceedings of the World Wide Web Conference (WWW)_, pp. 886-895, 2019.
 
 * [[pdf](publications/Sun_BigData_2018.pdf)] [[doi](https://doi.org/10.1109/BigData.2018.8622048)] Y. Sun, L. Garcia-Pueyo, **J. B. Wendt**, M. Najork, and A. Broder, "Learning Effective Embeddings for Machine Generated Emails with Applications to Email Category Prediction," _Proceedings of the IEEE International Conference on Big Data_, pp. 1846-1855, 2018.
@@ -23,6 +25,8 @@ James is a Senior Software Engineer in the Strategic Technologies group at Googl
 
 
 # Publications @ UCLA
+
+Topics span hardware security and low power system design.
 
 * [[pdf](publications/Guo_ICCAC_2015.pdf)] [[doi](https://doi.org/10.1109/ICCAC.2015.26)] J. Guo, **J. B. Wendt**, and M. Potkonjak, "Learning-Based Localized Offloading with Resource-Constrained Data Centers," _International Conference on Cloud and Autonomic Computing (ICCAC)_, pp. 212-215, 2015.
 
