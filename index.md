@@ -67,3 +67,40 @@ Topics span hardware security and low power system design.
 * [[pdf](publications/Wendt_IEEESensors_2011_nano.pdf)] [[doi](http://dx.doi.org/10.1109/ICSENS.2011.6127174)] **J. B. Wendt** and M. Potkonjak, "Nanotechnology-Based Trusted Remote Sensing," _IEEE Sensors_, pp. 1213-1216, 2011.
 
 * [[pdf](publications/Wendt_IEEESensors_2011_medical.pdf)] [[doi](http://dx.doi.org/10.1109/ICSENS.2011.6127188)] **J. B. Wendt** and M. Potkonjak, "Medical Diagnostic-Based Sensor Selection," _IEEE Sensors_, pp. 1507-1510, 2011.
+
+
+# Book Chapters & Miscellaneous Publications
+
+* \[[doi](http://dx.doi.org/10.1201/b14770-16)\] J. B. Wendt, S. Meguerdichian, and M. Potkonjak, "Small is Beautiful and Smart," _Telehealthcare Computing and Engineering: Principles and Design_, ed. by Fei Hu, pp. 341-358, CRC Press, 2013.
+
+* \[[doi](http://dx.doi.org/10.1201/b14770-29)\] S. Meguerdichian, **J. B. Wendt**, and M. Potkonjak, "Simultaneous Trust and Privacy in Medical Systems using Public Physical Unclonable Functions," _Telehealthcare Computing and Engineering: Principles and Design_, ed. by Fei Hu, pp. 679-698, CRC Press, 2013.
+
+* [[pdf](publications/Wendt_GRL_2019.pdf)] [[doi](http://dx.doi.org/10.1029/2009GL038295)] **J. Wendt**, D. D. Oglesby, and E. L. Geist, "Tsunamis and Splay Fault Dynamics," _Geophysical Research Letters_, vol. 36, no. 15, 2009.
+
+
+# Patents
+
+* [US20180144042A1](https://patents.google.com/patent/US20180144042A1). Template-based structured document classification and extraction.
+
+* [US20160314184A1](https://patents.google.com/patent/US20160314184A1). Classifying documents by cluster.
+
+
+# Service
+
+* **Program Committees**
+  * Knowledge Discovery and Data Mining (KDD), Applied Data Science Track. 2018‒2019.
+  * Conference on Information and Knowledge Management (CIKM), Short Paper Track. 2018.
+  * Hardware-Oriented Security and Trust conference (HOST). 2016‒2018.
+
+* **Journal Reviews**
+  * IEEE Transactions on Emerging Topics in Computing (TETC). 2013, 2015‒2016.
+  * IEEE Transactions on Information Forensics and Security (T-IFS). 2012, 2014‒2015.
+
+* **Conference Reviews**
+  * World Wide Web Conference (WWW). 2016.
+  * IEEE GLOBECOM. 2012, 2015.
+  * IEEE International Conference on Communications (ICC). 2014.
+  * International Conference on Advances in Computing, Communications & Informatics (ICACCI). 2012.
+
+* **Ph.D Graduate Admissions Committee**
+  * Department of Computer Science, UCLA. 2014‒2017.
