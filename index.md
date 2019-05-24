@@ -1,21 +1,9 @@
-
-<table border="0">
-<tr>
-<td valign="top" width="170px">
- <img src="images/me_150.png" border="1" width="150px" align="left" style="border-width: 1px;">
-</td>
-<td>
-
-Hello, and welcome to my personal home page. I am a Senior Software Engineer in the Strategic Technologies group at Google Research, working on large-scale machine-learned information extraction. I earned my Ph.D. at UCLA under the guidance of [Miodrag Potkonjak](http://www.cs.ucla.edu/~miodrag). You can find more information about me and my work below and at the following links.
+<img src="images/me_150.png" border="1" width="150px" align="left" style="border-width: 1px;"> Hello, and welcome to my personal home page. I am a Senior Software Engineer in the Strategic Technologies group at Google Research, working on large-scale machine-learned information extraction. I earned my Ph.D. at UCLA under the guidance of [Miodrag Potkonjak](http://www.cs.ucla.edu/~miodrag). You can find more information about me and my work below and at the following links.
 
 * [LinkedIn](https://www.linkedin.com/in/jameswendt)
 * [Google Scholar](https://scholar.google.com/citations?user=7CotKHgAAAAJ)
 * [Research at Google](https://research.google.com/pubs/JamesWendt.html)
 * [DBLP](http://dblp.uni-trier.de/pers/hd/w/Wendt:James_Bradley)
-</td>
-</tr>
-</table>
-
 
 # Publications @ Google
 
