@@ -1,13 +1,25 @@
-James is a Senior Software Engineer in the Strategic Technologies group at Google Research, working on large-scale machine-learned information extraction. He earned his Ph.D. at UCLA under the guidance of [Miodrag Potkonjak](http://www.cs.ucla.edu/~miodrag). You can find more information about James and his work below.
+
+<table border="0">
+<tr>
+<td valign="top" width="170px">
+ <img src="images/me_150.png" border="1" width="150px" align="left" style="border-width: 1px;">
+</td>
+<td>
+
+Hello, and welcome to my personal home page. I am a Senior Software Engineer in the Strategic Technologies group at Google Research, working on large-scale machine-learned information extraction. I earned my Ph.D. at UCLA under the guidance of [Miodrag Potkonjak](http://www.cs.ucla.edu/~miodrag). You can find more information about me and my work below and at the following links.
 
 * [LinkedIn](https://www.linkedin.com/in/jameswendt)
 * [Google Scholar](https://scholar.google.com/citations?user=7CotKHgAAAAJ)
 * [Research at Google](https://research.google.com/pubs/JamesWendt.html)
 * [DBLP](http://dblp.uni-trier.de/pers/hd/w/Wendt:James_Bradley)
+</td>
+</tr>
+</table>
+
 
 # Publications @ Google
 
-Topics span information extraction, data mining, and applied machine learning.
+Topics include information extraction, data mining, and applied machine learning.
 
 1. [![pdf](images/pdf_16.png)](publications/Kocayusufoglu_WWW_2019.pdf) [![doi](images/doi_16.png)](https://doi.org/10.1145/3308558.3313720) F. Kocayusufoglu, Y. Sheng, N. Vo, **J. B. Wendt**, Q. Zhao, S. Tata, and M. Najork, "RiSER: Learning Better Representations for Richly Structured Emails," _Proceedings of the World Wide Web Conference (WWW)_, pp. 886-895, 2019.
 
@@ -26,7 +38,7 @@ Topics span information extraction, data mining, and applied machine learning.
 
 # Publications @ UCLA
 
-Topics span hardware security and low power system design.
+Topics include hardware security and low power system and integrated circuit design.
 
 1. [![pdf](images/pdf_16.png)](publications/Guo_ICCAC_2015.pdf) [![doi](images/doi_16.png)](https://doi.org/10.1109/ICCAC.2015.26) J. Guo, **J. B. Wendt**, and M. Potkonjak, "Learning-Based Localized Offloading with Resource-Constrained Data Centers," _International Conference on Cloud and Autonomic Computing (ICCAC)_, pp. 212-215, 2015.
 
