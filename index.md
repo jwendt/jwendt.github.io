@@ -5,6 +5,8 @@
 * [Research at Google](https://research.google.com/pubs/JamesWendt.html)
 * [DBLP](http://dblp.uni-trier.de/pers/hd/w/Wendt:James_Bradley)
 
+
+ 
 # Publications @ Google
 
 Topics include information extraction, data mining, and applied machine learning.
