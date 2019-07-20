@@ -11,6 +11,8 @@
 
 Topics include information extraction, data mining, and applied machine learning.
 
+1. M. Whittaker, N. Edmonds, S. Tata, **J. B. Wendt**, and M. Najork, "Online Template Induction for Machine-Generated Emails," to appear in _Proceedings of the International Conference on Very Large Databases (VLDB)_, 2019.
+
 1. [![pdf](images/pdf_16.png)](publications/Kocayusufoglu_WWW_2019.pdf) [![doi](images/doi_16.png)](https://doi.org/10.1145/3308558.3313720) F. Kocayusufoglu, Y. Sheng, N. Vo, **J. B. Wendt**, Q. Zhao, S. Tata, and M. Najork, "RiSER: Learning Better Representations for Richly Structured Emails," _Proceedings of the World Wide Web Conference (WWW)_, pp. 886-895, 2019.
 
 1. [![pdf](images/pdf_16.png)](publications/Sun_BigData_2018.pdf) [![doi](images/doi_16.png)](https://doi.org/10.1109/BigData.2018.8622048) Y. Sun, L. Garcia-Pueyo, **J. B. Wendt**, M. Najork, and A. Broder, "Learning Effective Embeddings for Machine Generated Emails with Applications to Email Category Prediction," _Proceedings of the IEEE International Conference on Big Data_, pp. 1846-1855, 2018.
