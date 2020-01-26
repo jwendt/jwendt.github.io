@@ -4,12 +4,12 @@
 * [Google Scholar](https://scholar.google.com/citations?user=7CotKHgAAAAJ)
 * [Research at Google](https://research.google.com/pubs/JamesWendt.html)
 * [DBLP](http://dblp.uni-trier.de/pers/hd/w/Wendt:James_Bradley)
-
+* [Semantic Scholar](https://www.semanticscholar.org/author/James-Bradley-Wendt/1796372)
 
  
 # Publications @ Google
 
-Topics include information extraction, data mining, and applied machine learning.
+Topics include information extraction and applied machine learning.
 
 1. M. Whittaker, N. Edmonds, S. Tata, **J. B. Wendt**, and M. Najork, "Online Template Induction for Machine-Generated Emails," to appear in _Proceedings of the International Conference on Very Large Databases (VLDB)_, 2019.
 
