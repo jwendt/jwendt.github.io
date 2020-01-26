@@ -70,7 +70,7 @@ Topics include hardware security and low power system and integrated circuit des
 
 1. [![pdf](images/pdf_16.png)](publications/2011_IEEESensors_Wendt_nano.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1109/ICSENS.2011.6127174) **J. B. Wendt** and M. Potkonjak, "Nanotechnology-Based Trusted Remote Sensing," _IEEE Sensors_, pp. 1213-1216, 2011.
 
-1. [![pdf](images/pdf_16.png)](publications/2011_IEESensors_Wendt_medical.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1109/ICSENS.2011.6127188) **J. B. Wendt** and M. Potkonjak, "Medical Diagnostic-Based Sensor Selection," _IEEE Sensors_, pp. 1507-1510, 2011.
+1. [![pdf](images/pdf_16.png)](publications/2011_IEEESensors_Wendt_medical.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1109/ICSENS.2011.6127188) **J. B. Wendt** and M. Potkonjak, "Medical Diagnostic-Based Sensor Selection," _IEEE Sensors_, pp. 1507-1510, 2011.
 
 
 # Book Chapters & Miscellaneous Publications
