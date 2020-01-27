@@ -9,79 +9,82 @@
  
 # Publications @ Google
 
+[pdf_logo]: images/pdf_16.png "pdf logo"
+[doi_logo]: images/doi_16.png "doi logo"
+
 Topics include information extraction and applied machine learning.
 
-1. [![pdf](images/pdf_16.png)](publications/2020_CIDR_Sheng.pdf) Y. Sheng, N. Vo, **J. B. Wendt**, S. Tata, and M. Najork, "Migrating a Privacy-Safe Information Extraction System to a Software 2.0 Design," _Conference on Innovative Data Systems Research (CIDR)_, 2020.
+1. [![pdf][pdf_logo]](publications/2020_CIDR_Sheng.pdf) Y. Sheng, N. Vo, **J. B. Wendt**, S. Tata, and M. Najork, "Migrating a Privacy-Safe Information Extraction System to a Software 2.0 Design," _Conference on Innovative Data Systems Research (CIDR)_, 2020.
 
-1. [![pdf](images/pdf_16.png)](publications/2019_VLDB_Whittaker.pdf) [![doi](images/doi_16.png)](https://doi.org/10.14778/3342263.3342264) M. Whittaker, N. Edmonds, S. Tata, **J. B. Wendt**, and M. Najork, "Online Template Induction for Machine-Generated Emails," _Proceedings of the International Conference on Very Large Databases (VLDB)_, pp. 1235-1248, 2019.
+1. [![pdf][pdf_logo]](publications/2019_VLDB_Whittaker.pdf) [![doi][doi_logo]](https://doi.org/10.14778/3342263.3342264) M. Whittaker, N. Edmonds, S. Tata, **J. B. Wendt**, and M. Najork, "Online Template Induction for Machine-Generated Emails," _Proceedings of the International Conference on Very Large Databases (VLDB)_, pp. 1235-1248, 2019.
 
-1. [![pdf](images/pdf_16.png)](publications/2019_WWW_Kocayusufoglu.pdf) [![doi](images/doi_16.png)](https://doi.org/10.1145/3308558.3313720) F. Kocayusufoglu, Y. Sheng, N. Vo, **J. B. Wendt**, Q. Zhao, S. Tata, and M. Najork, "RiSER: Learning Better Representations for Richly Structured Emails," _Proceedings of the World Wide Web Conference (WWW)_, pp. 886-895, 2019.
+1. [![pdf][pdf_logo]](publications/2019_WWW_Kocayusufoglu.pdf) [![doi][doi_logo]](https://doi.org/10.1145/3308558.3313720) F. Kocayusufoglu, Y. Sheng, N. Vo, **J. B. Wendt**, Q. Zhao, S. Tata, and M. Najork, "RiSER: Learning Better Representations for Richly Structured Emails," _Proceedings of the World Wide Web Conference (WWW)_, pp. 886-895, 2019.
 
-1. [![pdf](images/pdf_16.png)](publications/2018_BigData_Sun.pdf) [![doi](images/doi_16.png)](https://doi.org/10.1109/BigData.2018.8622048) Y. Sun, L. Garcia-Pueyo, **J. B. Wendt**, M. Najork, and A. Broder, "Learning Effective Embeddings for Machine Generated Emails with Applications to Email Category Prediction," _Proceedings of the IEEE International Conference on Big Data_, pp. 1846-1855, 2018.
+1. [![pdf][pdf_logo]](publications/2018_BigData_Sun.pdf) [![doi][doi_logo]](https://doi.org/10.1109/BigData.2018.8622048) Y. Sun, L. Garcia-Pueyo, **J. B. Wendt**, M. Najork, and A. Broder, "Learning Effective Embeddings for Machine Generated Emails with Applications to Email Category Prediction," _Proceedings of the IEEE International Conference on Big Data_, pp. 1846-1855, 2018.
 
-1. [![pdf](images/pdf_16.png)](publications/2018_KDD_Sheng.pdf) [![doi](images/doi_16.png)](https://doi.org/10.1145/3219819.3219901) Y. Sheng, S. Tata, **J. B. Wendt**, J. Xie, Q. Zhao, and M. Najork, "Anatomy of a Privacy-Safe Large-Scale Information Extraction System Over Email," _Proceedings of the International Conference on Knowledge Discovery and Data Mining (KDD)_, pp. 734-743, 2018.
+1. [![pdf][pdf_logo]](publications/2018_KDD_Sheng.pdf) [![doi][doi_logo]](https://doi.org/10.1145/3219819.3219901) Y. Sheng, S. Tata, **J. B. Wendt**, J. Xie, Q. Zhao, and M. Najork, "Anatomy of a Privacy-Safe Large-Scale Information Extraction System Over Email," _Proceedings of the International Conference on Knowledge Discovery and Data Mining (KDD)_, pp. 734-743, 2018.
 
-1. [![pdf](images/pdf_16.png)](publications/2018_WWW_Potti.pdf) [![doi](images/doi_16.png)](https://doi.org/10.1145/3178876.3186167) N. Potti, **J. B. Wendt**, Q. Zhao, S. Tata, and M. Najork, "Hidden in Plain Sight: Classifying Emails Using Embedded Image Contents," _Proceedings of the World Wide Web Conference (WWW)_, pp. 1865-1874, 2018.
+1. [![pdf][pdf_logo]](publications/2018_WWW_Potti.pdf) [![doi][doi_logo]](https://doi.org/10.1145/3178876.3186167) N. Potti, **J. B. Wendt**, Q. Zhao, S. Tata, and M. Najork, "Hidden in Plain Sight: Classifying Emails Using Embedded Image Contents," _Proceedings of the World Wide Web Conference (WWW)_, pp. 1865-1874, 2018.
 
-1. [![pdf](images/pdf_16.png)](publications/2017_WWW_Zhang.pdf) [![doi](images/doi_16.png)](https://doi.org/10.1145/3041021.3055166) A. Zhang, L. Garcia-Pueyo, **J. B. Wendt**, M. Najork, and A. Broder, "Email Category Prediction," _Companion Proceedings of the World Wide Web Conference (WWW)_, pp. 495-503, 2017.
+1. [![pdf][pdf_logo]](publications/2017_WWW_Zhang.pdf) [![doi][doi_logo]](https://doi.org/10.1145/3041021.3055166) A. Zhang, L. Garcia-Pueyo, **J. B. Wendt**, M. Najork, and A. Broder, "Email Category Prediction," _Companion Proceedings of the World Wide Web Conference (WWW)_, pp. 495-503, 2017.
 
-1. [![pdf](images/pdf_16.png)](publications/2017_WWW_Proskurnia.pdf) [![doi](images/doi_16.png)](https://doi.org/10.1145/3038912.3052631) J. Proskurnia, M.-A. Cartright, L. Garcia-Pueyo, I.Krka, **J. B. Wendt**, T. Kaufmann, and B. Miklos, "Template Induction over Unstructured Email Corpora," _Proceedings of the World Wide Web Conference (WWW)_, pp. 1521-1530, 2017.
+1. [![pdf][pdf_logo]](publications/2017_WWW_Proskurnia.pdf) [![doi][doi_logo]](https://doi.org/10.1145/3038912.3052631) J. Proskurnia, M.-A. Cartright, L. Garcia-Pueyo, I.Krka, **J. B. Wendt**, T. Kaufmann, and B. Miklos, "Template Induction over Unstructured Email Corpora," _Proceedings of the World Wide Web Conference (WWW)_, pp. 1521-1530, 2017.
 
-1. [![pdf](images/pdf_16.png)](publications/2016_WSDM_Wendt.pdf) [![doi](images/doi_16.png)](https://doi.org/10.1145/2835776.2835780) **J. B. Wendt**, M. Bendersky, L. Garcia-Pueyo, V. Josifovski, B. Miklos, I. Krka, A. Saikia, J. Yang, M.-C. Cartright, and S. Ravi, "Hierarchical Label Propagation and Discovery for Machine Generated Email," _Proceedings of the International Conference on Web Search and Data Mining (WSDM)_, pp. 317-326, 2016.
+1. [![pdf][pdf_logo]](publications/2016_WSDM_Wendt.pdf) [![doi][doi_logo]](https://doi.org/10.1145/2835776.2835780) **J. B. Wendt**, M. Bendersky, L. Garcia-Pueyo, V. Josifovski, B. Miklos, I. Krka, A. Saikia, J. Yang, M.-C. Cartright, and S. Ravi, "Hierarchical Label Propagation and Discovery for Machine Generated Email," _Proceedings of the International Conference on Web Search and Data Mining (WSDM)_, pp. 317-326, 2016.
 
 
 # Publications @ UCLA
 
 Topics include hardware security and low power system and integrated circuit design.
 
-1. [![pdf](images/pdf_16.png)](publications/2015_ICCAC_Guo.pdf) [![doi](images/doi_16.png)](https://doi.org/10.1109/ICCAC.2015.26) J. Guo, **J. B. Wendt**, and M. Potkonjak, "Learning-Based Localized Offloading with Resource-Constrained Data Centers," _International Conference on Cloud and Autonomic Computing (ICCAC)_, pp. 212-215, 2015.
+1. [![pdf][pdf_logo]](publications/2015_ICCAC_Guo.pdf) [![doi][doi_logo]](https://doi.org/10.1109/ICCAC.2015.26) J. Guo, **J. B. Wendt**, and M. Potkonjak, "Learning-Based Localized Offloading with Resource-Constrained Data Centers," _International Conference on Cloud and Autonomic Computing (ICCAC)_, pp. 212-215, 2015.
 
-1. [![pdf](images/pdf_16.png)](publications/2015_IEEE_Rajendran.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1109/JPROC.2014.2387353) J. Rajendran, R. Karri, **J. B. Wendt**, M. Potkonjak, N. McDonald, G. S. Rose, and B. Wysocki, "Nano Meets Security: Exploring Nanoelectronic Devices for Security Applications," _Proceedings of the IEEE_, vol. 103, no. 5, pp. 829-849, 2015.
+1. [![pdf][pdf_logo]](publications/2015_IEEE_Rajendran.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1109/JPROC.2014.2387353) J. Rajendran, R. Karri, **J. B. Wendt**, M. Potkonjak, N. McDonald, G. S. Rose, and B. Wysocki, "Nano Meets Security: Exploring Nanoelectronic Devices for Security Applications," _Proceedings of the IEEE_, vol. 103, no. 5, pp. 829-849, 2015.
 
-1. [![pdf](images/pdf_16.png)](publications/2015_ICASSP_Wendt.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1109/ICASSP.2015.7178134) **J. B. Wendt**, N. A. Conos, and M. Potkonjak, "Multiple Constant Multiplication Implementations in Near-Threshold Computing Systems," _IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 1071-1075, 2015.
+1. [![pdf][pdf_logo]](publications/2015_ICASSP_Wendt.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1109/ICASSP.2015.7178134) **J. B. Wendt**, N. A. Conos, and M. Potkonjak, "Multiple Constant Multiplication Implementations in Near-Threshold Computing Systems," _IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 1071-1075, 2015.
 
-1. [![pdf](images/pdf_16.png)](publications/2014_ICCAD_Xu.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1109/ICCAD.2014.7001385) T. Xu, **J. B. Wendt**, and M. Potkonjak, "Security of IoT Systems: Design Challenges and Opportunities," _IEEE/ACM International Conference on Computer-Aided Design (ICCAD)_, pp. 417-423, 2014.
+1. [![pdf][pdf_logo]](publications/2014_ICCAD_Xu.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1109/ICCAD.2014.7001385) T. Xu, **J. B. Wendt**, and M. Potkonjak, "Security of IoT Systems: Design Challenges and Opportunities," _IEEE/ACM International Conference on Computer-Aided Design (ICCAD)_, pp. 417-423, 2014.
 
-1. [![pdf](images/pdf_16.png)](publications/2014_ICCAD_Wendt.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1109/ICCAD.2014.7001362) **J. B. Wendt** and M. Potkonjak, "Hardware Obfuscation using PUF-based Logic," _IEEE/ACM International Conference on Computer-Aided Design (ICCAD)_, pp. 270-277, 2014.
+1. [![pdf][pdf_logo]](publications/2014_ICCAD_Wendt.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1109/ICCAD.2014.7001362) **J. B. Wendt** and M. Potkonjak, "Hardware Obfuscation using PUF-based Logic," _IEEE/ACM International Conference on Computer-Aided Design (ICCAD)_, pp. 270-277, 2014.
 
-1. [![pdf](images/pdf_16.png)](publications/2014_IEEESensors_Xu.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1109/ICSENS.2014.6985237) T. Xu, **J. B. Wendt**, and M. Potkonjak, "Ultra-lightweight Symmetric-key Cipher for Resource Constrained Systems," _IEEE Sensors_, pp. 1252-1255, 2014.
+1. [![pdf][pdf_logo]](publications/2014_IEEESensors_Xu.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1109/ICSENS.2014.6985237) T. Xu, **J. B. Wendt**, and M. Potkonjak, "Ultra-lightweight Symmetric-key Cipher for Resource Constrained Systems," _IEEE Sensors_, pp. 1252-1255, 2014.
 
-1. [![pdf](images/pdf_16.png)](publications/2014_ANCS_Xu.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1145/2658260.2658279) T. Xu, **J. B. Wendt**, and M. Potkonjak, "Secure Remote Sensing and Communication using Digital PUFs," _ACM/IEEE Symposium on Architectures for Networking and Communications Systems (ANCS)_, pp. 173-184, 2014.
+1. [![pdf][pdf_logo]](publications/2014_ANCS_Xu.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1145/2658260.2658279) T. Xu, **J. B. Wendt**, and M. Potkonjak, "Secure Remote Sensing and Communication using Digital PUFs," _ACM/IEEE Symposium on Architectures for Networking and Communications Systems (ANCS)_, pp. 173-184, 2014.
 
-1. [![pdf](images/pdf_16.png)](publications/2014_ICHI_Xu.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1109/ICHI.2014.12) T. Xu, **J. B. Wendt**, and M. Potkonjak, "Matched Digital PUFs for Low Power Security in Implantable Medical Devices," _IEEE International Conference on Healthcare Informatics (ICHI)_, pp. 33-38, 2014.
+1. [![pdf][pdf_logo]](publications/2014_ICHI_Xu.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1109/ICHI.2014.12) T. Xu, **J. B. Wendt**, and M. Potkonjak, "Matched Digital PUFs for Low Power Security in Implantable Medical Devices," _IEEE International Conference on Healthcare Informatics (ICHI)_, pp. 33-38, 2014.
 
-1. [![pdf](images/pdf_16.png)](publications/2014_DAC_Wendt.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1145/2593069.2593228) **J. B. Wendt**, F. Koushanfar, and M. Potkonjak, "Techniques for Foundry Identification," _ACM/IEEE Design Automation Conference (DAC)_, no. 208, pp. 1-6, 2014.
+1. [![pdf][pdf_logo]](publications/2014_DAC_Wendt.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1145/2593069.2593228) **J. B. Wendt**, F. Koushanfar, and M. Potkonjak, "Techniques for Foundry Identification," _ACM/IEEE Design Automation Conference (DAC)_, no. 208, pp. 1-6, 2014.
 
-1. [![pdf](images/pdf_16.png)](publications/2014_DAC_Wei.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1145/2593069.2593204) S. Wei, **J. B. Wendt**, A. Nahapetian, and M. Potkonjak, "Reverse Engineering and Prevention Techniques for Physical Unclonable Functions Using Side Channels," _ACM/IEEE Design Automation Conference (DAC)_, no. 90, pp. 1-6, 2014. <span style="color:red">Nominated for Best Paper Award.</span>
+1. [![pdf][pdf_logo]](publications/2014_DAC_Wei.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1145/2593069.2593204) S. Wei, **J. B. Wendt**, A. Nahapetian, and M. Potkonjak, "Reverse Engineering and Prevention Techniques for Physical Unclonable Functions Using Side Channels," _ACM/IEEE Design Automation Conference (DAC)_, no. 90, pp. 1-6, 2014. <span style="color:red">Nominated for Best Paper Award.</span>
 
-1. [![pdf](images/pdf_16.png)](publications/2014_DATE_Rostami.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.7873/DATE.2014.365) M. Rostami, **J. B. Wendt**, M. Potkonjak, and F. Koushanfar, "Quo Vadis, PUF? Trends and Challenges of Emerging Physical-Disorder based Security," Design, Automation & Test in Europe (DATE), no. 352, pp. 1-6, 2014.
+1. [![pdf][pdf_logo]](publications/2014_DATE_Rostami.pdf) [![doi][doi_logo]](http://dx.doi.org/10.7873/DATE.2014.365) M. Rostami, **J. B. Wendt**, M. Potkonjak, and F. Koushanfar, "Quo Vadis, PUF? Trends and Challenges of Emerging Physical-Disorder based Security," Design, Automation & Test in Europe (DATE), no. 352, pp. 1-6, 2014.
 
-1. [![pdf](images/pdf_16.png)](publications/2014_WF-IoT_Goudar.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1109/WF-IoT.2014.6803212) V. Goudar, **J. B. Wendt**, M. Potkonjak, Z. Ren, P. Brochu, and Q. Pei, "Leveraging Human Gait Characteristics Towards Self-Sustained Operation of Low-Power Mobile Devices," _IEEE World Forum on Internet of Things (WF-IoT)_, pp. 468-473, 2014.
+1. [![pdf][pdf_logo]](publications/2014_WF-IoT_Goudar.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1109/WF-IoT.2014.6803212) V. Goudar, **J. B. Wendt**, M. Potkonjak, Z. Ren, P. Brochu, and Q. Pei, "Leveraging Human Gait Characteristics Towards Self-Sustained Operation of Low-Power Mobile Devices," _IEEE World Forum on Internet of Things (WF-IoT)_, pp. 468-473, 2014.
 
-1. [![pdf](images/pdf_16.png)](publications/2013_GlobalSIP_Wendt.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1109/GlobalSIP.2013.6736864) **J. B. Wendt** and M. Potkonjak, "The Bidirectional Polyomino Partitioned PPUF as a Hardware Security Primitive," _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, pp. 257-260, 2013.
+1. [![pdf][pdf_logo]](publications/2013_GlobalSIP_Wendt.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1109/GlobalSIP.2013.6736864) **J. B. Wendt** and M. Potkonjak, "The Bidirectional Polyomino Partitioned PPUF as a Hardware Security Primitive," _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, pp. 257-260, 2013.
 
-1. [![pdf](images/pdf_16.png)](publications/2013_IEEESensors_Wendt.pdf) **J. B. Wendt** and M. Potkonjak, "Improving Energy Efficiency in Sensing Subsystems via Near-Threshold Computing and Device Aging," _IEEE Sensors_, pp. 555-558, 2013.
+1. [![pdf][pdf_logo]](publications/2013_IEEESensors_Wendt.pdf) **J. B. Wendt** and M. Potkonjak, "Improving Energy Efficiency in Sensing Subsystems via Near-Threshold Computing and Device Aging," _IEEE Sensors_, pp. 555-558, 2013.
 
-1. [![pdf](images/pdf_16.png)](publications/2013_ISLPED_Xu.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1109/ISLPED.2013.6629311) T. Xu, **J. B. Wendt**, and M. Potkonjak, "Digital Bimodal Function: An Ultra-Low Energy Security Primitive," _ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED)_, pp. 292-297, 2013.
+1. [![pdf][pdf_logo]](publications/2013_ISLPED_Xu.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1109/ISLPED.2013.6629311) T. Xu, **J. B. Wendt**, and M. Potkonjak, "Digital Bimodal Function: An Ultra-Low Energy Security Primitive," _ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED)_, pp. 292-297, 2013.
 
-1. [![pdf](images/pdf_16.png)](publications/2012_IEEESensors_Wendt.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1109/ICSENS.2012.6411353) **J. B. Wendt**, V. Goudar, H. Noshadi, and M. Potkonjak, "Spatiotemporal Assignment of Energy Harvesters on a Self-Sustaining Medical Shoe," _IEEE Sensors_, pp. 1312-1315, 2012.
+1. [![pdf][pdf_logo]](publications/2012_IEEESensors_Wendt.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1109/ICSENS.2012.6411353) **J. B. Wendt**, V. Goudar, H. Noshadi, and M. Potkonjak, "Spatiotemporal Assignment of Energy Harvesters on a Self-Sustaining Medical Shoe," _IEEE Sensors_, pp. 1312-1315, 2012.
 
-1. [![pdf](images/pdf_16.png)](publications/2012_ISLPED_Wendt.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1145/2333660.2333728) **J. B. Wendt**, S. Meguerdichian, H. Noshadi, and M. Potkonjak, "Semantics-driven Sensor Configuration for Energy Reduction in Medical Sensor Networks," _ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED)_, pp. 303-308, 2012.
+1. [![pdf][pdf_logo]](publications/2012_ISLPED_Wendt.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1145/2333660.2333728) **J. B. Wendt**, S. Meguerdichian, H. Noshadi, and M. Potkonjak, "Semantics-driven Sensor Configuration for Energy Reduction in Medical Sensor Networks," _ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED)_, pp. 303-308, 2012.
 
-1. [![pdf](images/pdf_16.png)](publications/2012_DCC_Wendt.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1109/DCC.2012.67) **J. B. Wendt**, S. Meguerdichian, H. Noshadi, and M. Potkonjak, "Energy and Cost Reduction in Localized Multisensory Systems through Application-Driven Compression," _Data Compression Conference (DCC)_, p. 411, 2012.
+1. [![pdf][pdf_logo]](publications/2012_DCC_Wendt.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1109/DCC.2012.67) **J. B. Wendt**, S. Meguerdichian, H. Noshadi, and M. Potkonjak, "Energy and Cost Reduction in Localized Multisensory Systems through Application-Driven Compression," _Data Compression Conference (DCC)_, p. 411, 2012.
 
-1. [![pdf](images/pdf_16.png)](publications/2011_IEEESensors_Wendt_nano.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1109/ICSENS.2011.6127174) **J. B. Wendt** and M. Potkonjak, "Nanotechnology-Based Trusted Remote Sensing," _IEEE Sensors_, pp. 1213-1216, 2011.
+1. [![pdf][pdf_logo]](publications/2011_IEEESensors_Wendt_nano.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1109/ICSENS.2011.6127174) **J. B. Wendt** and M. Potkonjak, "Nanotechnology-Based Trusted Remote Sensing," _IEEE Sensors_, pp. 1213-1216, 2011.
 
-1. [![pdf](images/pdf_16.png)](publications/2011_IEEESensors_Wendt_medical.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1109/ICSENS.2011.6127188) **J. B. Wendt** and M. Potkonjak, "Medical Diagnostic-Based Sensor Selection," _IEEE Sensors_, pp. 1507-1510, 2011.
+1. [![pdf][pdf_logo]](publications/2011_IEEESensors_Wendt_medical.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1109/ICSENS.2011.6127188) **J. B. Wendt** and M. Potkonjak, "Medical Diagnostic-Based Sensor Selection," _IEEE Sensors_, pp. 1507-1510, 2011.
 
 
 # Book Chapters & Miscellaneous Publications
 
-1. [![doi](images/doi_16.png)](http://dx.doi.org/10.1201/b14770-16) J. B. Wendt, S. Meguerdichian, and M. Potkonjak, "Small is Beautiful and Smart," _Telehealthcare Computing and Engineering: Principles and Design_, ed. by Fei Hu, pp. 341-358, CRC Press, 2013.
+1. [![doi][doi_logo]](http://dx.doi.org/10.1201/b14770-16) J. B. Wendt, S. Meguerdichian, and M. Potkonjak, "Small is Beautiful and Smart," _Telehealthcare Computing and Engineering: Principles and Design_, ed. by Fei Hu, pp. 341-358, CRC Press, 2013.
 
-1. [![doi](images/doi_16.png)](http://dx.doi.org/10.1201/b14770-29) S. Meguerdichian, **J. B. Wendt**, and M. Potkonjak, "Simultaneous Trust and Privacy in Medical Systems using Public Physical Unclonable Functions," _Telehealthcare Computing and Engineering: Principles and Design_, ed. by Fei Hu, pp. 679-698, CRC Press, 2013.
+1. [![doi][doi_logo]](http://dx.doi.org/10.1201/b14770-29) S. Meguerdichian, **J. B. Wendt**, and M. Potkonjak, "Simultaneous Trust and Privacy in Medical Systems using Public Physical Unclonable Functions," _Telehealthcare Computing and Engineering: Principles and Design_, ed. by Fei Hu, pp. 679-698, CRC Press, 2013.
 
-1. [![pdf](images/pdf_16.png)](publications/2009_GRL_Wendt.pdf) [![doi](images/doi_16.png)](http://dx.doi.org/10.1029/2009GL038295) **J. Wendt**, D. D. Oglesby, and E. L. Geist, "Tsunamis and Splay Fault Dynamics," _Geophysical Research Letters_, vol. 36, no. 15, 2009.
+1. [![pdf][pdf_logo]](publications/2009_GRL_Wendt.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1029/2009GL038295) **J. Wendt**, D. D. Oglesby, and E. L. Geist, "Tsunamis and Splay Fault Dynamics," _Geophysical Research Letters_, vol. 36, no. 15, 2009.
 
 
 # Patents
