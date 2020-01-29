@@ -1,4 +1,4 @@
-<img src="images/me_250.png" width="225px" align="left"> Hello, and welcome to my personal home page. I am a Senior Software Engineer in the Strategic Technologies group at Google Research, working on large-scale machine-learned information extraction. I earned my Ph.D. at UCLA under the guidance of [Miodrag Potkonjak](http://www.cs.ucla.edu/~miodrag). You can find more information about me and my work below and at the following links.
+<img src="images/me_250.png" width="225px" align="left"> Hello, and welcome to my personal site. I am a Senior Software Engineer in the Strategic Technologies group at Google Research, working on large-scale machine-learned information extraction. I earned my Ph.D. at UCLA under the guidance of [Miodrag Potkonjak](http://www.cs.ucla.edu/~miodrag). You can find more information about me and my work below and at the following links.
 
 * [LinkedIn](https://www.linkedin.com/in/jameswendt)
 * [Google Scholar](https://scholar.google.com/citations?user=7CotKHgAAAAJ)
