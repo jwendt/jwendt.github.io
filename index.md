@@ -102,13 +102,13 @@ Topics include hardware security and low power system and integrated circuit des
 # Service
 
 * **Program Committees**
-  * Knowledge Discovery and Data Mining (KDD), Applied Data Science Track. 2018‒2019.
-  * Conference on Information and Knowledge Management (CIKM), Short Paper Track. 2018.
-  * Hardware-Oriented Security and Trust conference (HOST). 2016‒2018.
+  * Knowledge Discovery and Data Mining (KDD), Applied Data Science Track. 2018, 2019, 2020.
+  * Conference on Information and Knowledge Management (CIKM), Short Paper Track. 2018, 2020.
+  * Hardware-Oriented Security and Trust conference (HOST). 2016, 2017, 2018.
 
 * **Journal Reviews**
-  * IEEE Transactions on Emerging Topics in Computing (TETC). 2013, 2015‒2016.
-  * IEEE Transactions on Information Forensics and Security (T-IFS). 2012, 2014‒2015.
+  * IEEE Transactions on Emerging Topics in Computing (TETC). 2013, 2015, 2016.
+  * IEEE Transactions on Information Forensics and Security (T-IFS). 2012, 2014, 2015.
 
 * **Conference Reviews**
   * World Wide Web Conference (WWW). 2016.
@@ -116,5 +116,5 @@ Topics include hardware security and low power system and integrated circuit des
   * IEEE International Conference on Communications (ICC). 2014.
   * International Conference on Advances in Computing, Communications & Informatics (ICACCI). 2012.
 
-* **Ph.D Graduate Admissions Committee**
-  * Department of Computer Science, UCLA. 2014‒2017.
+* **Ph.D. Graduate Admissions Committee**
+  * Department of Computer Science, UCLA. 2014, 2015, 2016, 2017.
