@@ -106,15 +106,5 @@ Topics include hardware security and low power system and integrated circuit des
   * Conference on Information and Knowledge Management (CIKM), Short Paper Track. 2018, 2020.
   * Hardware-Oriented Security and Trust conference (HOST). 2016, 2017, 2018.
 
-* **Journal Reviews**
-  * IEEE Transactions on Emerging Topics in Computing (TETC). 2013, 2015, 2016.
-  * IEEE Transactions on Information Forensics and Security (T-IFS). 2012, 2014, 2015.
-
-* **Conference Reviews**
-  * World Wide Web Conference (WWW). 2016.
-  * IEEE GLOBECOM. 2012, 2015.
-  * IEEE International Conference on Communications (ICC). 2014.
-  * International Conference on Advances in Computing, Communications & Informatics (ICACCI). 2012.
-
 * **Ph.D. Graduate Admissions Committee**
   * Department of Computer Science, UCLA. 2014, 2015, 2016, 2017.
