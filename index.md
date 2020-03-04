@@ -102,9 +102,9 @@ Topics include hardware security and low power system and integrated circuit des
 # Service
 
 * **Program Committees**
-  * Knowledge Discovery and Data Mining (KDD), Applied Data Science Track. 2018, 2019, 2020.
-  * Conference on Information and Knowledge Management (CIKM), Short Paper Track. 2018, 2020.
-  * Hardware-Oriented Security and Trust conference (HOST). 2016, 2017, 2018.
+  * Knowledge Discovery and Data Mining (KDD), Applied Data Science Track. [2018](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3219819), [2019](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3292500), 2020.
+  * Conference on Information and Knowledge Management (CIKM), Short Paper Track. [2018](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3269206), 2020.
+  * Hardware-Oriented Security and Trust conference (HOST). [2016](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7495546), [2017](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7951728), [2018](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8383883).
 
 * **Ph.D. Graduate Admissions Committee**
   * Department of Computer Science, UCLA. 2014, 2015, 2016, 2017.
