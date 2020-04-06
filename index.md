@@ -14,6 +14,8 @@
 
 Topics include information extraction and applied machine learning.
 
+1. B. P. Majumder, N. Potti, S. Tata, **J. B. Wendt**, Q. Zhao, and M. Najork, "Representation Learning for Information Extraction from Form-like Documents," to appear in the _Annual Conference of the Association for Computational Linguistics (ACL)_, 2020.
+
 1. [![pdf][pdf_logo]](publications/2020_CIDR_Sheng.pdf) Y. Sheng, N. Vo, **J. B. Wendt**, S. Tata, and M. Najork, "Migrating a Privacy-Safe Information Extraction System to a Software 2.0 Design," _Conference on Innovative Data Systems Research (CIDR)_, 2020.
 
 1. [![pdf][pdf_logo]](publications/2019_VLDB_Whittaker.pdf) [![doi][doi_logo]](https://doi.org/10.14778/3342263.3342264) M. Whittaker, N. Edmonds, S. Tata, **J. B. Wendt**, and M. Najork, "Online Template Induction for Machine-Generated Emails," _Proceedings of the International Conference on Very Large Databases (VLDB)_, pp. 1235-1248, 2019.
