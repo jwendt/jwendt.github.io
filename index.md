@@ -1,4 +1,4 @@
-<img src="images/me_250.png" width="225px" align="left"> Hello, and welcome to my personal website. I am a Senior Software Engineer at Google Research currently focusing on topics related to large-scale and privacy-safe information extraction, data management systems, and applied ML. Prior to joining Google, I earned my Ph.D. at UCLA under the guidance of [Miodrag Potkonjak](http://www.cs.ucla.edu/~miodrag), where I explored methods for hardware security and low power design.
+<img src="images/me_250.png" width="225px" align="left"><div>Hello, and welcome to my personal website. I am a Senior Software Engineer at Google Research currently focusing on topics related to large-scale and privacy-safe information extraction, data management systems, and applied ML. Prior to joining Google, I earned my Ph.D. at UCLA under the guidance of [Miodrag Potkonjak](http://www.cs.ucla.edu/~miodrag), where I explored methods for hardware security and low power design.</div>
 
 You can find more information about me and my work below and at the following links.
 
