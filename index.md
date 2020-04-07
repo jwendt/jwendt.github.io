@@ -1,8 +1,10 @@
-<img src="images/me_250.png" width="225px" align="left"> Hello, and welcome to my personal site. I am a Senior Software Engineer in the Strategic Technologies group at Google Research, working on large-scale machine-learned information extraction. I earned my Ph.D. at UCLA under the guidance of [Miodrag Potkonjak](http://www.cs.ucla.edu/~miodrag). You can find more information about me and my work below and at the following links.
+<img src="images/me_250.png" width="225px" align="left"> Hello, and welcome to my personal website. I am a Senior Software Engineer at Google Research currently focusing on topics related to large-scale and privacy-safe information extraction, data management systems, and applied ML. Prior to joining Google, I earned my Ph.D. at UCLA under the guidance of [Miodrag Potkonjak](http://www.cs.ucla.edu/~miodrag), where I explored methods for hardware security and low power design.
+
+You can find more information about me and my work below and at the following links.
 
 * [LinkedIn](https://www.linkedin.com/in/jameswendt)
 * [Google Scholar](https://scholar.google.com/citations?user=7CotKHgAAAAJ)
-* [Research at Google](https://research.google.com/pubs/JamesWendt.html)
+* [Google Research Profile](https://research.google.com/pubs/JamesWendt.html)
 * [DBLP](http://dblp.uni-trier.de/pers/hd/w/Wendt:James_Bradley)
 * [Semantic Scholar](https://www.semanticscholar.org/author/James-Bradley-Wendt/1796372)
 
@@ -12,7 +14,7 @@
 [pdf_logo]: images/pdf_16.png "pdf logo"
 [doi_logo]: images/doi_16.png "doi logo"
 
-Topics include information extraction and applied machine learning.
+Topics include privacy-safe information extraction, data management systems, and applied machine learning.
 
 1. B. P. Majumder, N. Potti, S. Tata, **J. B. Wendt**, Q. Zhao, and M. Najork, "Representation Learning for Information Extraction from Form-like Documents," to appear in the _Annual Conference of the Association for Computational Linguistics (ACL)_, 2020.
 
