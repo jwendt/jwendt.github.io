@@ -12,8 +12,8 @@ You can find more information about me and my work below and at the following li
  
 # Publications @ Google
 
-[pdf_logo]: images/pdf_16.png "pdf logo"
-[doi_logo]: images/doi_16.png "doi logo"
+[pdf_logo]: images/pdf_16.png "PDF"
+[doi_logo]: images/doi_16.png "DOI"
 
 Topics include privacy-safe information extraction, data management systems, and applied machine learning.
 
