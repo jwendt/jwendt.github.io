@@ -94,10 +94,8 @@ Topics include hardware security and low power system and integrated circuit des
 # Patents
 
 * **Patented**
+  * [![pdf][pdf_logo] US Patent 10,657,158](publications/US10657158.pdf). Template-based structured document classification and extraction.
   * [![pdf][pdf_logo] US Patent 10,387,559](publications/US10387559.pdf). Template-based identification of user interest.
-
-* **Published and pending**
-  * [![pdf][pdf_logo] US Patent App. 15/360,939](publications/US20180144042A1.pdf). Template-based structured document classification and extraction.
 
 * **Published but abandoned**
   * [![pdf][pdf_logo] US Patent App. 14/697,342](publications/US20160314184A1.pdf). Classifying documents by cluster.
