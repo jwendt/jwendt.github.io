@@ -13,6 +13,11 @@
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>http://www.jameswendt.com/publications/2020_ACL_Majumder.pdf</loc>
+  <lastmod>2020-06-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>http://www.jameswendt.com/publications/2020_CIDR_Sheng.pdf</loc>
   <lastmod>2020-01-29T04:26:38+00:00</lastmod>
   <priority>0.80</priority>
@@ -162,6 +167,12 @@
   <lastmod>2020-01-29T04:26:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+<url>
+  <loc>http://www.jameswendt.com/publications/US10657158.pdf</loc>
+  <lastmod>2020-06-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
 <url>
   <loc>http://www.jameswendt.com/publications/US10387559.pdf</loc>
   <lastmod>2020-01-29T04:26:38+00:00</lastmod>
