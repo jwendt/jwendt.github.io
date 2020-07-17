@@ -10,12 +10,14 @@ You can find more information about me and my work below and at the following li
 * [DBLP](http://dblp.uni-trier.de/pers/hd/w/Wendt:James_Bradley)
 * [Semantic Scholar](https://www.semanticscholar.org/author/James-Bradley-Wendt/1796372)
  
-# Publications @ Google
+# Publications
 
 [pdf_logo]: images/pdf_16.png "PDF"
 [doi_logo]: images/doi_16.png "DOI"
 
-Topics include privacy-safe information extraction, data management systems, and applied machine learning.
+## Information Extraction, Data Management Systems, Applied ML
+
+Work done while at Google.
 
 1. [![pdf][pdf_logo]](publications/2020_ACL_Majumder.pdf) B. P. Majumder, N. Potti, S. Tata, **J. B. Wendt**, Q. Zhao, and M. Najork, "Representation Learning for Information Extraction from Form-like Documents," _Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)_, pp. 6495-6504, 2020.
 
@@ -38,9 +40,9 @@ Topics include privacy-safe information extraction, data management systems, and
 1. [![pdf][pdf_logo]](publications/2016_WSDM_Wendt.pdf) [![doi][doi_logo]](https://doi.org/10.1145/2835776.2835780) **J. B. Wendt**, M. Bendersky, L. Garcia-Pueyo, V. Josifovski, B. Miklos, I. Krka, A. Saikia, J. Yang, M.-C. Cartright, and S. Ravi, "Hierarchical Label Propagation and Discovery for Machine Generated Email," _Proceedings of the International Conference on Web Search and Data Mining (WSDM)_, pp. 317-326, 2016.
 
 
-# Publications @ UCLA
+## Hardware security and low power system and integrated circuit design
 
-Topics include hardware security and low power system and integrated circuit design.
+Work done while at UCLA.
 
 1. [![pdf][pdf_logo]](publications/2015_ICCAC_Guo.pdf) [![doi][doi_logo]](https://doi.org/10.1109/ICCAC.2015.26) J. Guo, **J. B. Wendt**, and M. Potkonjak, "Learning-Based Localized Offloading with Resource-Constrained Data Centers," _International Conference on Cloud and Autonomic Computing (ICCAC)_, pp. 212-215, 2015.
 
@@ -82,12 +84,16 @@ Topics include hardware security and low power system and integrated circuit des
 
 1. [![pdf][pdf_logo]](publications/2011_IEEESensors_Wendt_medical.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1109/ICSENS.2011.6127188) **J. B. Wendt** and M. Potkonjak, "Medical Diagnostic-Based Sensor Selection," _IEEE Sensors_, pp. 1507-1510, 2011.
 
-
-# Book Chapters & Miscellaneous Publications
+### Book chapters
 
 1. [![doi][doi_logo]](http://dx.doi.org/10.1201/b14770-16) **J. B. Wendt**, S. Meguerdichian, and M. Potkonjak, "Small is Beautiful and Smart," _Telehealthcare Computing and Engineering: Principles and Design_, ed. by Fei Hu, pp. 341-358, CRC Press, 2013.
 
 1. [![doi][doi_logo]](http://dx.doi.org/10.1201/b14770-29) S. Meguerdichian, **J. B. Wendt**, and M. Potkonjak, "Simultaneous Trust and Privacy in Medical Systems using Public Physical Unclonable Functions," _Telehealthcare Computing and Engineering: Principles and Design_, ed. by Fei Hu, pp. 679-698, CRC Press, 2013.
+
+
+## Earthquake and tsunami simulation
+
+Work work done while a summer intern in the Geophysics department at UC Riverside.
 
 1. [![pdf][pdf_logo]](publications/2009_GRL_Wendt.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1029/2009GL038295) **J. Wendt**, D. D. Oglesby, and E. L. Geist, "Tsunamis and Splay Fault Dynamics," _Geophysical Research Letters_, vol. 36, no. 15, 2009.
 
