@@ -40,7 +40,7 @@ Work done while at Google.
 1. [![pdf][pdf_logo]](publications/2016_WSDM_Wendt.pdf) [![doi][doi_logo]](https://doi.org/10.1145/2835776.2835780) **J. B. Wendt**, M. Bendersky, L. Garcia-Pueyo, V. Josifovski, B. Miklos, I. Krka, A. Saikia, J. Yang, M.-C. Cartright, and S. Ravi, "Hierarchical Label Propagation and Discovery for Machine Generated Email," _Proceedings of the International Conference on Web Search and Data Mining (WSDM)_, pp. 317-326, 2016.
 
 
-## Hardware security and low power system and integrated circuit design
+## Hardware Security, Low Power System and Integrated Circuit Design
 
 Work done while at UCLA.
 
@@ -84,14 +84,14 @@ Work done while at UCLA.
 
 1. [![pdf][pdf_logo]](publications/2011_IEEESensors_Wendt_medical.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1109/ICSENS.2011.6127188) **J. B. Wendt** and M. Potkonjak, "Medical Diagnostic-Based Sensor Selection," _IEEE Sensors_, pp. 1507-1510, 2011.
 
-### Book chapters
+### Book Chapters
 
 1. [![doi][doi_logo]](http://dx.doi.org/10.1201/b14770-16) **J. B. Wendt**, S. Meguerdichian, and M. Potkonjak, "Small is Beautiful and Smart," _Telehealthcare Computing and Engineering: Principles and Design_, ed. by Fei Hu, pp. 341-358, CRC Press, 2013.
 
 1. [![doi][doi_logo]](http://dx.doi.org/10.1201/b14770-29) S. Meguerdichian, **J. B. Wendt**, and M. Potkonjak, "Simultaneous Trust and Privacy in Medical Systems using Public Physical Unclonable Functions," _Telehealthcare Computing and Engineering: Principles and Design_, ed. by Fei Hu, pp. 679-698, CRC Press, 2013.
 
 
-## Earthquake and tsunami simulation
+## Earthquake and Tsunami Simulation
 
 Work work done while a summer intern in the Geophysics department at UC Riverside.
 
