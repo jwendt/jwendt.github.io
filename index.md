@@ -10,12 +10,12 @@ You can find more information about me and my work below and at the following li
 * [DBLP](http://dblp.uni-trier.de/pers/hd/w/Wendt:James_Bradley)
 * [Semantic Scholar](https://www.semanticscholar.org/author/James-Bradley-Wendt/1796372)
  
-# Publications
+## Publications
 
 [pdf_logo]: images/pdf_16.png "PDF"
 [doi_logo]: images/doi_16.png "DOI"
 
-## Information Extraction, Data Management Systems, Applied ML
+### Information Extraction, Data Management Systems, Applied ML
 
 Work done while at Google.
 
@@ -40,7 +40,7 @@ Work done while at Google.
 1. [![pdf][pdf_logo]](publications/2016_WSDM_Wendt.pdf) [![doi][doi_logo]](https://doi.org/10.1145/2835776.2835780) **J. B. Wendt**, M. Bendersky, L. Garcia-Pueyo, V. Josifovski, B. Miklos, I. Krka, A. Saikia, J. Yang, M.-C. Cartright, and S. Ravi, "Hierarchical Label Propagation and Discovery for Machine Generated Email," _Proceedings of the International Conference on Web Search and Data Mining (WSDM)_, pp. 317-326, 2016.
 
 
-## Hardware Security, Low Power System and Integrated Circuit Design
+### Hardware Security, Low Power System and Integrated Circuit Design
 
 Work done while at UCLA.
 
@@ -84,21 +84,21 @@ Work done while at UCLA.
 
 1. [![pdf][pdf_logo]](publications/2011_IEEESensors_Wendt_medical.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1109/ICSENS.2011.6127188) **J. B. Wendt** and M. Potkonjak, "Medical Diagnostic-Based Sensor Selection," _IEEE Sensors_, pp. 1507-1510, 2011.
 
-### Book Chapters
+#### Book Chapters
 
 1. [![doi][doi_logo]](http://dx.doi.org/10.1201/b14770-16) **J. B. Wendt**, S. Meguerdichian, and M. Potkonjak, "Small is Beautiful and Smart," _Telehealthcare Computing and Engineering: Principles and Design_, ed. by Fei Hu, pp. 341-358, CRC Press, 2013.
 
 1. [![doi][doi_logo]](http://dx.doi.org/10.1201/b14770-29) S. Meguerdichian, **J. B. Wendt**, and M. Potkonjak, "Simultaneous Trust and Privacy in Medical Systems using Public Physical Unclonable Functions," _Telehealthcare Computing and Engineering: Principles and Design_, ed. by Fei Hu, pp. 679-698, CRC Press, 2013.
 
 
-## Earthquake and Tsunami Simulation
+### Earthquake and Tsunami Simulation
 
 Work work done while a summer intern in the Geophysics department at UC Riverside.
 
 1. [![pdf][pdf_logo]](publications/2009_GRL_Wendt.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1029/2009GL038295) **J. Wendt**, D. D. Oglesby, and E. L. Geist, "Tsunamis and Splay Fault Dynamics," _Geophysical Research Letters_, vol. 36, no. 15, 2009.
 
 
-# Patents
+## Patents
 
 * **Patented**
   * [![pdf][pdf_logo] US Patent 10,657,158](publications/US10657158.pdf). Template-based structured document classification and extraction.
@@ -108,7 +108,7 @@ Work work done while a summer intern in the Geophysics department at UC Riversid
   * [![pdf][pdf_logo] US Patent App. 14/697,342](publications/US20160314184A1.pdf). Classifying documents by cluster.
 
 
-# Service
+## Service
 
 * **Program Committees**
   * Knowledge Discovery and Data Mining (KDD), Applied Data Science Track. [2018](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3219819), [2019](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3292500), 2020.
