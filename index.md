@@ -19,7 +19,7 @@ You can find more information about me and my work below and at the following li
 
 Work done while at Google.
 
-1. S. Tata, N. Potti, **J. B. Wendt**, L. B. Costa, M. Najork, and B. Gunel, "Glean: Structured Extractions from Templatic Documents," to appear in _Proceedings of the International Conference on Very Large Databases (VLDB)_, vol. 14, iss. 6, 2021.
+1. [![pdf][pdf_logo]](publications/2021_VLDB_Tata.pdf) S. Tata, N. Potti, **J. B. Wendt**, L. B. Costa, M. Najork, and B. Gunel, "Glean: Structured Extractions from Templatic Documents," to appear in _Proceedings of the International Conference on Very Large Databases (VLDB)_, vol. 14, iss. 6, 2021.
 
 1. [![pdf][pdf_logo]](publications/2020_ACL_Majumder.pdf) B. P. Majumder, N. Potti, S. Tata, **J. B. Wendt**, Q. Zhao, and M. Najork, "Representation Learning for Information Extraction from Form-like Documents," _Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)_, pp. 6495-6504, 2020.
 
