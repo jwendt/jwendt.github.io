@@ -19,7 +19,7 @@ You can find more information about me and my work below and at the following li
 
 Work done while at Google.
 
-1. B. Gunel, N. Potti, S. Tata, **J. B. Wendt**, M. Najork, J. Xie, "Data-Efficient Information Extraction from Form-Like Documents," to appear in the _Workshop on Document Intelligence at KDD_, 2021.
+1. [![pdf][pdf_logo]](publications/2021_KDD_DI_Gunel.pdf) B. Gunel, N. Potti, S. Tata, **J. B. Wendt**, M. Najork, J. Xie, "Data-Efficient Information Extraction from Form-Like Documents," _Proceedings of the Document Intelligence Workshop at KDD_, 2021.
 
 1. [![pdf][pdf_logo]](publications/2021_VLDB_Tata.pdf) [![doi][doi_logo]](https://doi.org/10.14778/3447689.3447703) S. Tata, N. Potti, **J. B. Wendt**, L. B. Costa, M. Najork, and B. Gunel, "Glean: Structured Extractions from Templatic Documents," _Proceedings of the International Conference on Very Large Databases (VLDB)_, vol. 14, iss. 6, pp. 997-1005, 2021.
 
