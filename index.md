@@ -109,7 +109,7 @@ Work work done while a summer intern in the Geophysics department at UC Riversid
   * [![pdf][pdf_logo] US Patent 10,387,559](publications/US10387559.pdf). Template-based identification of user interest.
 
 * **Pending**
-  * US Patent App. 16/890,287. System for Information Extraction from Form-Like Documents.
+  * [![pdf][pdf_logo] US Patent App. 16/890,287](publications/US20210374395A1.pdf). System for Information Extraction from Form-Like Documents.
 
 * **Abandoned**
   * [![pdf][pdf_logo] US Patent App. 14/697,342](publications/US20160314184A1.pdf). Classifying documents by cluster.
