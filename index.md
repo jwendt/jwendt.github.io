@@ -110,7 +110,7 @@ Work work done while a summer intern in the Geophysics department at UC Riversid
   * [![pdf][pdf_logo] US Patent 11,393,233](publications/US11393233.pdf). System for information extraction from form-like documents.
   * [![pdf][pdf_logo] US Patent 10,657,158](publications/US10657158.pdf). Template-based structured document classification and extraction.
   * [![pdf][pdf_logo] US Patent 10,387,559](publications/US10387559.pdf). Template-based identification of user interest.
-<!--
+<!---
 * **Pending**
   *
 -->
