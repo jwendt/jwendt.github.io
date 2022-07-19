@@ -1,6 +1,6 @@
 ![me](images/me_250.png)
 
-Hello, and welcome to my personal website. I am a Staff Software Engineer at Google Research currently focusing on topics related to privacy-safe information extraction (both large-scale and in low-data regimes), data management systems, and applied ML. Prior to joining Google, I earned my Ph.D. at UCLA under the guidance of <a href="http://www.cs.ucla.edu/~miodrag">Miodrag Potkonjak</a>, where I explored methods for hardware security and low power circuit and system design.
+Hello, and welcome to my personal site. I am a Staff Software Engineer at Google Research currently focusing on topics related to low-resource information extraction, semi-supervised learning, and data management and quality. Some of my prior work focused on large scale privacy-safe information extraction and data management systems of private corpora. Prior to joining Google, I earned my Ph.D. at UCLA under the guidance of <a href="http://www.cs.ucla.edu/~miodrag">Miodrag Potkonjak</a>, where I explored methods for hardware security and low power circuit and system design.
 
 You can find more information about me and my work below and at the following links.
 
