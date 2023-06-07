@@ -99,7 +99,7 @@ Work done while at UCLA.
 
 ### Earthquake and Tsunami Simulation
 
-Work work done while a summer intern in the Geophysics department at UC Riverside.
+Work done while an intern in the Geophysics department at UC Riverside.
 
 1. [![pdf][pdf_logo]](publications/2009_GRL_Wendt.pdf) [![doi][doi_logo]](http://dx.doi.org/10.1029/2009GL038295) **J. Wendt**, D. D. Oglesby, and E. L. Geist, "Tsunamis and Splay Fault Dynamics," _Geophysical Research Letters_, vol. 36, no. 15, 2009.
 
