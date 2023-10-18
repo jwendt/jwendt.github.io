@@ -19,6 +19,8 @@ You can find more information about me and my work below and at the following li
 
 Work done while at Google.
 
+1. Y. Zhou, **J. B. Wendt**, N. Potti, J. Xie, S. Tata, "Selective Labeling: How to Radically Lower Data-Labeling Costs for Document Extraction Models," to appear in _Proceedings of the Conference on Empircal Methods in Natural Language Processing (EMNLP)_, 2023.
+
 1. [🔗](https://icml.cc/virtual/2022/workshop/13477#wse-detail-20008) Y. Zhou, **J. B. Wendt**, N. Potti, J. Xie, S. Tata, "Radically Lower Data-Labeling Costs for Document Extraction Models with Selective Labeling," _Proceedings of the DataPerf Workshop at ICML_, 2022.
 
 1. [![pdf][pdf_logo]](publications/2021_KDD_DI_Gunel.pdf) B. Gunel, N. Potti, S. Tata, **J. B. Wendt**, M. Najork, J. Xie, "Data-Efficient Information Extraction from Form-Like Documents," _Proceedings of the Document Intelligence Workshop at KDD_, 2021.
