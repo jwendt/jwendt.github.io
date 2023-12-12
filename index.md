@@ -19,7 +19,7 @@ You can find more information about me and my work below and at the following li
 
 Work done while at Google.
 
-1. [![pdf][pdf_logo]](publications/2023_EMNLP_Zhou.pdf) [🔗](https://aclanthology.org/2023.emnlp-main.233.pdf) Y. Zhou, **J. B. Wendt**, N. Potti, J. Xie, S. Tata, "Selective Labeling: How to Radically Lower Data-Labeling Costs for Document Extraction Models," _Proceedings of the Conference on Empircal Methods in Natural Language Processing (EMNLP)_, pp. 3847-3860, 2023.
+1. [![pdf][pdf_logo]](publications/2023_EMNLP_Zhou.pdf) [🔗](https://aclanthology.org/2023.emnlp-main.233/) Y. Zhou, **J. B. Wendt**, N. Potti, J. Xie, S. Tata, "Selective Labeling: How to Radically Lower Data-Labeling Costs for Document Extraction Models," _Proceedings of the Conference on Empircal Methods in Natural Language Processing (EMNLP)_, pp. 3847-3860, 2023.
 
 1. [🔗](https://icml.cc/virtual/2022/workshop/13477#wse-detail-20008) Y. Zhou, **J. B. Wendt**, N. Potti, J. Xie, S. Tata, "Radically Lower Data-Labeling Costs for Document Extraction Models with Selective Labeling," _Proceedings of the DataPerf Workshop at ICML_, 2022.
 
@@ -27,9 +27,9 @@ Work done while at Google.
 
 1. [![pdf][pdf_logo]](publications/2021_VLDB_Tata.pdf) [![doi][doi_logo]](https://doi.org/10.14778/3447689.3447703) S. Tata, N. Potti, **J. B. Wendt**, L. B. Costa, M. Najork, and B. Gunel, "Glean: Structured Extractions from Templatic Documents," _Proceedings of the International Conference on Very Large Databases (VLDB)_, vol. 14, iss. 6, pp. 997-1005, 2021.
 
-1. [![pdf][pdf_logo]](publications/2020_ACL_Majumder.pdf) B. P. Majumder, N. Potti, S. Tata, **J. B. Wendt**, Q. Zhao, and M. Najork, "Representation Learning for Information Extraction from Form-like Documents," _Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)_, pp. 6495-6504, 2020.
+1. [![pdf][pdf_logo]](publications/2020_ACL_Majumder.pdf) [🔗](https://aclanthology.org/2020.acl-main.580/) B. P. Majumder, N. Potti, S. Tata, **J. B. Wendt**, Q. Zhao, and M. Najork, "Representation Learning for Information Extraction from Form-like Documents," _Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)_, pp. 6495-6504, 2020.
 
-1. [![pdf][pdf_logo]](publications/2020_CIDR_Sheng.pdf) Y. Sheng, N. Vo, **J. B. Wendt**, S. Tata, and M. Najork, "Migrating a Privacy-Safe Information Extraction System to a Software 2.0 Design," _Conference on Innovative Data Systems Research (CIDR)_, 2020.
+1. [![pdf][pdf_logo]](publications/2020_CIDR_Sheng.pdf) [🔗](https://www.cidrdb.org/cidr2020/papers/p31-sheng-cidr20.pdf) Y. Sheng, N. Vo, **J. B. Wendt**, S. Tata, and M. Najork, "Migrating a Privacy-Safe Information Extraction System to a Software 2.0 Design," _Conference on Innovative Data Systems Research (CIDR)_, 2020.
 
 1. [![pdf][pdf_logo]](publications/2019_VLDB_Whittaker.pdf) [![doi][doi_logo]](https://doi.org/10.14778/3342263.3342264) M. Whittaker, N. Edmonds, S. Tata, **J. B. Wendt**, and M. Najork, "Online Template Induction for Machine-Generated Emails," _Proceedings of the International Conference on Very Large Databases (VLDB)_, vol. 12, iss. 11, pp. 1235-1248, 2019.
 
