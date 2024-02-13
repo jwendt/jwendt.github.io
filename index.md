@@ -114,8 +114,9 @@ Work done while an intern in the Geophysics department at UC Riverside.
   * [![pdf][pdf_logo] US Patent 10,657,158](publications/US10657158.pdf). Template-based structured document classification and extraction.
   * [![pdf][pdf_logo] US Patent 10,387,559](publications/US10387559.pdf). Template-based identification of user interest.
 
-<!-- Pending -->
-
+* **Pending** <!-- Pending -->
+  * [![pdf][pdf_logo] US Patent App. 18/490,652](publications/US20240046684A1.pdf). System for information extraction from form-like documents.
+  
 * **Abandoned**
   * [![pdf][pdf_logo] US Patent App. 14/697,342](publications/US20160314184A1.pdf). Classifying documents by cluster.
 
