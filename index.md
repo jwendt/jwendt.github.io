@@ -116,6 +116,7 @@ Work done while an intern in the Geophysics department at UC Riverside.
 
 * **Pending** <!-- Pending -->
   * [![pdf][pdf_logo] US Patent App. 18/490,652](publications/US20240046684A1.pdf). System for information extraction from form-like documents.
+  * [![pdf][pdf_logo] US Patent App. 17/891,635](publications/US20240054390A1.pdf). Leveraging machine learning models to identify missing or incorrect labels in training or testing data.
   
 * **Abandoned**
   * [![pdf][pdf_logo] US Patent App. 14/697,342](publications/US20160314184A1.pdf). Classifying documents by cluster.
