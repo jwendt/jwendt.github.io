@@ -96,9 +96,9 @@ Work done while at UCLA.
 
 #### Book Chapters
 
-1. [![doi][doi_logo]](http://dx.doi.org/10.1201/b14770-16) **J. B. Wendt**, S. Meguerdichian, and M. Potkonjak, "Small is Beautiful and Smart," _Telehealthcare Computing and Engineering: Principles and Design_, ed. by Fei Hu, pp. 341-358, CRC Press, 2013.
+1. [![doi][doi_logo]](http://dx.doi.org/10.1201/b14770-18) **J. B. Wendt**, S. Meguerdichian, and M. Potkonjak, "Small is Beautiful and Smart," _Telehealthcare Computing and Engineering: Principles and Design_, ed. by Fei Hu, pp. 341-358, CRC Press, 2013.
 
-1. [![doi][doi_logo]](http://dx.doi.org/10.1201/b14770-29) S. Meguerdichian, **J. B. Wendt**, and M. Potkonjak, "Simultaneous Trust and Privacy in Medical Systems using Public Physical Unclonable Functions," _Telehealthcare Computing and Engineering: Principles and Design_, ed. by Fei Hu, pp. 679-698, CRC Press, 2013.
+1. [![doi][doi_logo]](http://dx.doi.org/10.1201/b14770-30) S. Meguerdichian, **J. B. Wendt**, and M. Potkonjak, "Simultaneous Trust and Privacy in Medical Systems using Public Physical Unclonable Functions," _Telehealthcare Computing and Engineering: Principles and Design_, ed. by Fei Hu, pp. 679-698, CRC Press, 2013.
 
 
 ### Earthquake and Tsunami Simulation
