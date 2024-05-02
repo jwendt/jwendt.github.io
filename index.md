@@ -129,12 +129,11 @@ Work done while an intern in the Geophysics department at UC Riverside.
 ## Service
 
 * **Program Committees**
+  * Knowledge Discovery and Data Mining (KDD), Research Track. 2024.
   * Empirical Methods in Natural Language Processing (EMNLP). 2022.
   * Knowledge Discovery and Data Mining (KDD), Applied Data Science Track. [2018](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3219819), [2019](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3292500), [2020](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3394486).
   * Conference on Information and Knowledge Management (CIKM), Short Paper Track. [2018](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3269206), [2020](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3340531), [2021](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3459637), [2022](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3511808).
   * Hardware-Oriented Security and Trust conference (HOST). [2016](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7495546), [2017](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7951728), [2018](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8383883).
-
-
 
 * **Ph.D. Graduate Admissions Committee**
   * Department of Computer Science, UCLA. 2014, 2015, 2016, 2017.
