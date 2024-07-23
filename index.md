@@ -19,6 +19,8 @@ You can find more information about me and my work below and at the following li
 
 Work done while at Google.
 
+1. [![pdf][pdf_logo]](publications/arxiv-2407.15021v1-incremental-summarization.pdf) [🔗](https://arxiv.org/abs/2407.15021) E. Hwang, Y. Zhou, **J. B. Wendt**, B. Gunel, N. Vo, S. Tata, "Enhancing Incremental Summarization with Structured Representations," arXiv preprint 2407.15021, 2024.
+
 1. [![pdf][pdf_logo]](publications/arxiv-2406.05079-sumie.pdf) [🔗](https://arxiv.org/abs/2406.05079) E. Hwang, Y. Zhou, B. Gunel, **J. B. Wendt**, S. Tata, "SUMIE: A Synthetic Benchmark for Incremental Entity Summarization," arXiv preprint 2406.05079, 2024.
 
 1. [![pdf][pdf_logo]](publications/arxiv-2403.19710-strum-llm.pdf) [🔗](https://arxiv.org/abs/2403.19710) B. Gunel, **J. B. Wendt**, J. Xie, Y. Zhou, N. Vo, Z. Fisher, S. Tata, "STRUM-LLM: Attributed and Structured Contrastive Summarization," arXiv preprint 2403.19710, 2024.
