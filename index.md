@@ -25,7 +25,7 @@ Work done while at Google.
 
 1. [![pdf][pdf_logo]](publications/arxiv-2403.19710-strum-llm.pdf) [🔗](https://arxiv.org/abs/2403.19710) B. Gunel, **J. B. Wendt**, J. Xie, Y. Zhou, N. Vo, Z. Fisher, S. Tata, "STRUM-LLM: Attributed and Structured Contrastive Summarization," arXiv preprint 2403.19710, 2024.
 
-1. J. Xie, **J. B. Wendt**, Y. Zhou, S. Ebner, S. Tata, "FieldSwap: Data Augmentation for Effective Form-Like Document Extraction," to appear in _Proceedings of the International Conference on Data Engineering (ICDE)_, 2024.
+1. [![pdf][pdf_logo]](publications/2024_ICDE_Xie.pdf) [![doi][doi_logo]](https://doi.org/10.1109/ICDE60146.2024.00359) J. Xie, **J. B. Wendt**, Y. Zhou, S. Ebner, S. Tata, "FieldSwap: Data Augmentation for Effective Form-Like Document Extraction," _Proceedings of the International Conference on Data Engineering (ICDE)_, pp. 4722-4732, 2024.
 
 1. [![pdf][pdf_logo]](publications/2023_EMNLP_Zhou.pdf) [🔗](https://aclanthology.org/2023.emnlp-main.233/) Y. Zhou, **J. B. Wendt**, N. Potti, J. Xie, S. Tata, "Selective Labeling: How to Radically Lower Data-Labeling Costs for Document Extraction Models," _Proceedings of the Conference on Empircal Methods in Natural Language Processing (EMNLP)_, pp. 3847-3860, 2023.
 
