@@ -6,7 +6,7 @@ You can find more information about me and my work below and at the following li
 
 * [LinkedIn](https://www.linkedin.com/in/jameswendt)
 * [Google Scholar](https://scholar.google.com/citations?user=7CotKHgAAAAJ)
-* [Google Research Profile](https://research.google.com/pubs/JamesWendt.html)
+* [Google Research Profile](https://research.google/people/jameswendt/)
 * [DBLP](http://dblp.uni-trier.de/pers/hd/w/Wendt:James_Bradley)
 * [Semantic Scholar](https://www.semanticscholar.org/author/James-Bradley-Wendt/1796372)
  
