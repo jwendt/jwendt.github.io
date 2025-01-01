@@ -19,6 +19,8 @@ You can find more information about me and my work below and at the following li
 
 Work done while at Google.
 
+1. [![pdf][pdf_logo]](publications/arxiv-2412.18914v1-long-range-tasks-using-short-context-llms.pdf) [🔗](https://arxiv.org/abs/2412.18914) D. Jayalath, **J. B. Wendt**, N. Monath, S. Tata, B. Gunel, "Long-Range Tasks Using Short-Context LLMs: Incremental Reasoning With Structured Memories," arXiv preprint 2412.18914, 2024.
+
 1. [![pdf][pdf_logo]](publications/arxiv-2407.15021v1-incremental-summarization.pdf) [🔗](https://arxiv.org/abs/2407.15021) E. Hwang, Y. Zhou, **J. B. Wendt**, B. Gunel, N. Vo, S. Tata, "Enhancing Incremental Summarization with Structured Representations," arXiv preprint 2407.15021, 2024.
 
 1. E. Hwang, Y. Zhou, B. Gunel, **J. B. Wendt**, S. Tata, "SUMIE: A Synthetic Benchmark for Incremental Entity Summarization," to appear in _COLING_, 2025. ([🔗 arXiv](https://arxiv.org/abs/2406.05079))
