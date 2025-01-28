@@ -21,7 +21,7 @@ Work done while at Google.
 
 1. [![pdf][pdf_logo]](publications/arxiv-2412.18914v1-long-range-tasks-using-short-context-llms.pdf) [🔗](https://arxiv.org/abs/2412.18914) D. Jayalath, **J. B. Wendt**, N. Monath, S. Tata, B. Gunel, "Long-Range Tasks Using Short-Context LLMs: Incremental Reasoning With Structured Memories," arXiv preprint 2412.18914, 2024.
 
-1. [![pdf][pdf_logo]](publications/arxiv-2407.15021v1-incremental-summarization.pdf) [🔗](https://arxiv.org/abs/2407.15021) E. Hwang, Y. Zhou, **J. B. Wendt**, B. Gunel, N. Vo, S. Tata, "Enhancing Incremental Summarization with Structured Representations," arXiv preprint 2407.15021, 2024.
+1. [![pdf][pdf_logo]](publications/2024_EMNLP_Hwang.pdf) [🔗](https://aclanthology.org/2024.findings-emnlp.220/) E. Hwang, Y. Zhou, **J. B. Wendt**, B. Gunel, N. Vo, S. Tata, "Enhancing Incremental Summarization with Structured Representations," in _Findings of the Association for Computational Linguistics: EMNLP 2024_, pp. 3830-3842, 2024. ([🔗 arXiv](https://arxiv.org/abs/2407.15021))
 
 1. [![pdf][pdf_logo]](publications/2025_COLING_Hwang.pdf) [🔗](https://aclanthology.org/2025.coling-main.721/) E. Hwang, Y. Zhou, B. Gunel, **J. B. Wendt**, S. Tata, "SUMIE: A Synthetic Benchmark for Incremental Entity Summarization," in _Proceedings of the 31st International Conference on Computational Linguistics (COLING)_, pp. 10839-10864, 2025. ([🔗 arXiv](https://arxiv.org/abs/2406.05079))
 
