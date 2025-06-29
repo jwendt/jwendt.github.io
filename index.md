@@ -29,7 +29,7 @@ Work done while at Google.
 
 1. [![pdf][pdf_logo]](publications/2024_ICDE_Xie.pdf) [![doi][doi_logo]](https://doi.org/10.1109/ICDE60146.2024.00359) J. Xie, **J. B. Wendt**, Y. Zhou, S. Ebner, S. Tata, "FieldSwap: Data Augmentation for Effective Form-Like Document Extraction," _Proceedings of the International Conference on Data Engineering (ICDE)_, pp. 4722-4732, 2024.
 
-1. [![pdf][pdf_logo]](publications/2023_EMNLP_Zhou.pdf) [🔗](https://aclanthology.org/2023.emnlp-main.233/) Y. Zhou, **J. B. Wendt**, N. Potti, J. Xie, S. Tata, "Selective Labeling: How to Radically Lower Data-Labeling Costs for Document Extraction Models," _Proceedings of the Conference on Empircal Methods in Natural Language Processing (EMNLP)_, pp. 3847-3860, 2023.
+1. [![pdf][pdf_logo]](publications/2023_EMNLP_Zhou.pdf) [🔗](https://aclanthology.org/2023.emnlp-main.233/) Y. Zhou, **J. B. Wendt**, N. Potti, J. Xie, S. Tata, "Selective Labeling: How to Radically Lower Data-Labeling Costs for Document Extraction Models," _Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)_, pp. 3847-3860, 2023.
 
 1. [🔗](https://icml.cc/virtual/2022/workshop/13477#wse-detail-20008) Y. Zhou, **J. B. Wendt**, N. Potti, J. Xie, S. Tata, "Radically Lower Data-Labeling Costs for Document Extraction Models with Selective Labeling," _Proceedings of the DataPerf Workshop at ICML_, 2022.
 
