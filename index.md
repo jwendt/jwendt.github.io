@@ -119,13 +119,13 @@ Work done while an intern in the Geophysics department at UC Riverside.
 ## Patents
 
 * **Issued**
+  * [![pdf][pdf_logo] US Patent 12,354,396](publications/US12354396B2.pdf). System for information extraction from form-like documents.
   * [![pdf][pdf_logo] US Patent 11,830,269](publications/US11830269.pdf). System for information extraction from form-like documents.
   * [![pdf][pdf_logo] US Patent 11,393,233](publications/US11393233.pdf). System for information extraction from form-like documents.
   * [![pdf][pdf_logo] US Patent 10,657,158](publications/US10657158.pdf). Template-based structured document classification and extraction.
   * [![pdf][pdf_logo] US Patent 10,387,559](publications/US10387559.pdf). Template-based identification of user interest.
 
 * **Pending** <!-- Pending -->
-  * [![pdf][pdf_logo] US Patent App. 18/490,652](publications/US20240046684A1.pdf). System for information extraction from form-like documents.
   * [![pdf][pdf_logo] US Patent App. 17/891,635](publications/US20240054390A1.pdf). Leveraging machine learning models to identify missing or incorrect labels in training or testing data.
   
 * **Abandoned**
