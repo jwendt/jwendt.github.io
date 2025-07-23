@@ -1,4 +1,4 @@
-![me](images/me_250.png)
+![me](images/me_portrait_240.jpeg)
 
 Hello, and welcome to my personal site. I am a Staff Software Engineer at Google DeepMind with 10 years of applied AI research experience, currently focusing on improving the agentic capabilities of large generative models related to tool use, coding, and structural data understanding. Previously, I was at Google Research where I focused on topics related to low-resource information extraction, semi-supervised learning, and data management and quality. Prior to that, my work included developing large scale privacy-safe information extraction and data management systems for private corpora. Prior to joining Google, I earned my Ph.D. at UCLA under the guidance of <a href="http://www.cs.ucla.edu/~miodrag">Miodrag Potkonjak</a>, where I explored methods for hardware security and low power circuit and system design.
 
